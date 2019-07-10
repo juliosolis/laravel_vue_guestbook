@@ -11,14 +11,14 @@
     },
     "devDependencies": {
         "axios": "^0.17",
-        "bootstrap-sass": "^3.3.7",
-        "cross-env": "^5.1",
-        "jquery": "^3.2",
+        "bootstrap-sass": "^3.4.1",
+        "cross-env": "^5.2.0",
+        "jquery": "^3.4.1",
         "laravel-mix": "^1.0",
-        "lodash": "^4.17.4",
-        "vue": "^2.1.10"
+        "lodash": "^4.17.14",
+        "vue": "^2.6.10"
     },
     "dependencies": {
-        "vuejs-paginate": "^1.4.0"
+        "vuejs-paginate": "^1.9.5"
     }
 }
